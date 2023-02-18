@@ -99,8 +99,8 @@ td {
 }
 
 .mondrian {
-    width: 550px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
 }
 
 .table_one {
@@ -125,4 +125,28 @@ td {
 
 .table_six {
     background: rgba(27, 230, 0, 0.744);
+    }
+
+.color_pink {
+        background: pink;
+    }
+
+.color_darkmagenta {
+    background: darkmagenta;
+}
+
+.color_red {
+    background: red;
+}
+
+.color_lavender {
+    background: lavender;
+}
+
+.color_hotpink {
+    background: hotpink;
+}
+
+.color_coral {
+    background: coral;
 }
