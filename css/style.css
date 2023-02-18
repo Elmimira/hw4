@@ -21,6 +21,7 @@ body {
 }
 
 .block_two {
+    background: plum;
     text-align: center;
     font-weight: 700;
     font-size: 25px;
