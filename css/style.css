@@ -100,6 +100,7 @@ td {
 }
 
 .mondrian {
+    display: inline-table;
     width: 400px;
     height: 400px;
 }
